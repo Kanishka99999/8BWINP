@@ -39,7 +39,7 @@ This project is a simple Library Management System implemented in Java. It was c
 
 Enter your choice: 1
 Enter book title: Java Programming
-Enter author name: John Doe
+Enter author name: Meena Kumari
 Book added successfully: Java Programming
 
 ...
